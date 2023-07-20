@@ -6,10 +6,10 @@ I am an undergraduate from IIT Kharagpur.
 <hr>
 
 <a href="https://github.com/yashkumar2603">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashkumar2603&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashkumar2603&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 <a href="https://github.com/yashkumar2603">
-<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashkumar2603&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+<img width="440" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashkumar2603&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
 
 <br>
