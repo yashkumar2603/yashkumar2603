@@ -15,7 +15,7 @@ I am an undergraduate from IIT Kharagpur.
 <br>
 <p>
 <a href="https://www.linkedin.com/in/yash-kumar-681a51257/">
-  <img src="https://komarev.com/ghpvc/?username=yashkumar2603&style=flat-square" align="right"/>
+  <img src="https://komarev.com/ghpvc/?username=yashkumar2603&color=30D5C8&style=for-the-badge" align="right"/>
 </a> 
 <a href="https://www.instagram.com/_.yash_._kumar._/">
 </a> 
