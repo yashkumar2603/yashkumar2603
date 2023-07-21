@@ -6,7 +6,7 @@ I am a second year undergraduate from the department of Mechanical Engineering a
 <hr>
 
 <a href="https://github.com/yashkumar2603">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height="170" src="https://github.com/yashkumar2603/github-readme-stats"/>
 </a>
 <a href="https://github.com/yashkumar2603">
 <img width="440" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashkumar2603&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
