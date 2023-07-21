@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yash.2603kumar@gmail.com || Linkedin**
 
-- ⚡ **I am good at a lot of things, like astronomy, astronomy, photography, design and videgraphy and also robotics/mechatronics..**
+- ⚡ **I am good at a lot of things, like astronomy, photography, design and videgraphy and also robotics/mechatronics..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
