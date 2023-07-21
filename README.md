@@ -8,7 +8,7 @@
 - ⚡ **I am good at a lot of things, like astronomy, photography, design and videgraphy, robotics/mechatronics and 3D art, Game development...**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/yash-kumar-681a51257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-kumar-681a51257/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.yash_._kumar._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.yash_._kumar._" height="30" width="40" /></a>
@@ -30,6 +30,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yashkumar2603&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
