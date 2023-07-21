@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashkumar2603" alt="yashkumar2603" /></a> </p>
 
-- 🌱 I’m currently learning **Web-development, competitive programming and much more.**
+- 🌱 I’m interested in **programming, astronomy, photography, videography, editing and design, robotics/mechatronics, 3d artwork and Game-development.**
 
 - 📫 How to reach me **yash.2603kumar@gmail.com || Linkedin**
 
