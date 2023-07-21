@@ -1,5 +1,5 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm Yash Kumar </h2>
-I am an undergraduate from IIT Kharagpur. 
+I am a second year undergraduate from the department of Mechanical Engineering at IIT Kharagpur. 
 
  I am Interested about - programming, photography, videography, editing, astronomy, robotics, 3D design, game-development and much more.<br>
 
