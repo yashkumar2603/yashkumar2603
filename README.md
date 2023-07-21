@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar</h1>
-<br><br>A second-year undergraduate of the department of Mechanical Engineering at Indian Institute of Technology, Kharagpur.<br><br>I’m currently learning Web-development, competitive programming and much more.<br><br>How to reach me yash.2603kumar@gmail.com || Linkedin || Instagram<br><br>I am good at a lot of things, like astronomy, photography, design and videgraphy and also robotics/mechatronics..
+<h3 align="center">A second-year undergraduate of the department of Mechanical Engineering at Indian Institute of Technology, Kharagpur.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkumar2603&label=Profile%20views&color=0e75b6&style=flat" alt="yashkumar2603" /> </p>
+
+- 🌱 I’m currently learning **Web-development, competitive programming and much more.**
+
+- 📫 How to reach me **yash.2603kumar@gmail.com || Linkedin**
+
+- ⚡ **I am good at a lot of things, like astronomy, photography, design and videgraphy and also robotics/mechatronics..**
 
 
 ## 🌐 Socials:
