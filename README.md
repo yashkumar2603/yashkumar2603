@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkumar2603&label=Profile%20views&color=0e75b6&style=flat" alt="yashkumar2603" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashkumar2603" alt="yashkumar2603" /></a> </p>
-
-- 🌱 I’m interested in **programming, astronomy, photography, videography, editing and design, robotics/mechatronics, 3d artwork and Game-development.**
+- 🌱 I’m currently learning **Web-development, competitive programming and much more.**
 
 - 📫 How to reach me **yash.2603kumar@gmail.com || Linkedin**
 
@@ -24,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashkumar2603&show_icons=true&locale=en&layout=compact" alt="yashkumar2603" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkumar2603&show_icons=true&locale=en" alt="yashkumar2603" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkumar2603&show_icons=true&theme=tokyonight&title_color=0088cc&locale=en" alt="yashkumar2603" /></p>
